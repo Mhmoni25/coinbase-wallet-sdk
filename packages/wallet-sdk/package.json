@@ -52,7 +52,7 @@
     "eth-json-rpc-filters": "4.2.2",
     "eth-rpc-errors": "4.0.2",
     "json-rpc-engine": "6.1.0",
-    "keccak": "^3.0.1",
+    "keccak": "^3.0.4",
     "preact": "^10.5.9",
     "qs": "^6.10.3",
     "rxjs": "^6.6.3",
